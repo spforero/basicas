@@ -42,7 +42,7 @@
  <div class="cont bg-blue-900  flex ">
      <div class="imagen bg-contain"></div>
     <h1 class="text-6xl font-bold m-10 text-white font-serif">BasicSciences</h1>
-    <a  class="text-xl font-bold my-20 ml-64 text-white font-serif object-right hover:text-blue-300" href="">Iniciar Sesion</a>
+    <a  class="text-xl font-bold my-20 ml-64 text-white font-serif object-right hover:text-blue-900" href="">Iniciar Sesionjv</a>
 
  </div>
 
