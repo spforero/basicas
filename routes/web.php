@@ -2,6 +2,10 @@
 
 use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\HomeController;
+use App\Http\Controllers\AdministradorController;
+use App\Http\Controllers\DocenteController;
+use App\Http\Controllers\EstudianteController;
+
 
 /*
 |--------------------------------------------------------------------------
@@ -14,6 +18,6 @@ use App\Http\Controllers\HomeController;
 |
 */
 
-Route::get('/', function () {
-    return view('welcome');
-});
+Route::get('/', HomeController::class);
+    
+
