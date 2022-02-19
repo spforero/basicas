@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <link rel="stylesheet" href="{{asset('css/app.css')}}">
-    <title>BasicSciences</title>
+    <title>BasicSciences HP</title>
     <style>
         .imagen{
             background-image: url("{{asset('img/logo.png')}}");
@@ -41,7 +41,7 @@
 <body>
  <div class="cont bg-blue-900  flex ">
      <div class="imagen bg-contain"></div>
-    <h1 class="text-6xl font-bold m-10 text-white font-serif">BasicSciences</h1>
+    <h1 class="text-6xl font-bold m-10 text-white font-serif ">BasicSciencesSFjuhujuhj</h1>
     <a  class="text-xl font-bold my-20 ml-64 text-white font-serif object-right hover:text-blue-300" href="">Iniciar Sesion</a>
 
  </div>
