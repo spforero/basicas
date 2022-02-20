@@ -41,13 +41,13 @@
 <body>
  <div class="cont bg-blue-900  flex ">
      <div class="imagen bg-contain"></div>
-    <h1 class="text-6xl font-bold m-10 text-white font-serif ">BasicSciencesSFjuhujuhj</h1>
+    <h1 class="text-6xl font-bold m-10 text-white font-serif ">BasicSciences</h1>
     <a  class="text-xl font-bold my-20 ml-64 text-white font-serif object-right hover:text-blue-300" href="">Iniciar Sesion</a>
 
  </div>
 
  <div class="container h-full bg-blue-100 mt-4 mb-4 ml-10 rounded-xl shadow-2xl">
-     <h1 class="text-3xl font-bold text-center pt-4  mb-4">Bienvenidos a nuestra comunidad Unisangilista</h1>
+     <h1 class="text-3xl font-bold text-center pt-4  mb-4">Bienvenidos a nuestra comunidad Unisangilista Queridos Compañeros</h1>
     <img class="m-auto my-6" src="img/unisan.jpg" alt="">
     <div class="text-justify mx-40" ><p >Hace dos décadas se creó en Colombia una institución de educación superior cuyas características la han hecho particularmente diferente: Unisangil. Su origen fue la Economía Solidaria. Nació en San Gil, Santander, en 1988, motivada
         por el interés que tuvo un grupo de organizaciones sociales y cooperativas que vieron en la profesionalización, la ciencia, el conocimiento y la técnica un campo estratégico para el modelo de desarrollo regional.</p>
@@ -64,8 +64,8 @@
 
 
  <footer class=" cont p-4">
-    <p class="text-center text-white font-serif font-bold">FUNDACIÓN UNIVERSITARIA DE SAN GIL - UNISANGIL SEDE CHIQUINQUIRÁ</p>
-    <p class="text-center text-white font-serif font-bold">TODOS LOS DERECHOS RESERVADOS UNISANGIL - 2016</p>
+    <p class="text-center text-white font-serif font-bold">FUNDACIÓN UNIVERSITARIA DE SAN GIL - UNISANGIL SEDE CHIQUINQUIRÁ - cambio</p>
+    <p class="text-center text-white font-serif font-bold">TODOS LOS DERECHOS RESERVADOS UNISANGIL - 2016 Nuevo</p>
     <div class="object-right imag bg-no-repeat"></div>
 </footer>
 
