@@ -65,7 +65,7 @@
 
  <footer class=" cont p-4">
     <p class="text-center text-white font-serif font-bold">FUNDACIÓN UNIVERSITARIA DE SAN GIL - UNISANGIL SEDE CHIQUINQUIRÁ - cambio</p>
-    <p class="text-center text-white font-serif font-bold">TODOS LOS DERECHOS RESERVADOS UNISANGIL - 2016</p>
+    <p class="text-center text-white font-serif font-bold">TODOS LOS DERECHOS RESERVADOS UNISANGIL - 2016 Nuevo</p>
     <div class="object-right imag"></div>
 </footer>
 
