@@ -57,6 +57,10 @@
         y problemáticas de sus zonas de influencia, en un mapa que trasciende las fronteras físicas del departamento de Santander y se integra con Casanare y Boyacá. En 1992 inició labores académicas la sede San Gil; en 1996, la sede Yopal,
         y en 2000, la sede Chiquinquirá.
     </p>
+    <p>Dando cumplimiento a su vocación de origen, las unidades de mil docientos Unisangil ha tenido un papel de primer orden en la promoción de microempresarios, como también en la consolidación de un capital humano de primer nivel para buscar respuestas a necesidades
+        y problemáticas de sus zonas de influencia, en un mapa que trasciende las fronteras físicas del departamento de Santander y se integra con Casanare y Boyacá. En 1992 inició labores académicas la sede San Gil; en 1996, la sede Yopal,
+        y en 2000, la sede Chiquinquirá.
+    </p>
     <p>En 2000 Unisangil firmó una alianza de cooperación con la Universidad Autónoma de Bucaramanga, UNAB, gracias a ella se ha tenido un fortalecimiento institucional y académico, este último se traduce en la oferta de programas académicos
         de la UNAB en la zona de influencia de Unisangil.
     </p>
