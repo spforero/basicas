@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <link rel="stylesheet" href="{{asset('css/app.css')}}">
-    <title>BasicSciences HP</title>
+    <title>BasicSciences vanessa</title>
     <style>
         .imagen{
             background-image: url("{{asset('img/logo.png')}}");
@@ -41,16 +41,18 @@
 <body>
  <div class="cont bg-blue-900  flex ">
      <div class="imagen bg-contain"></div>
-    <h1 class="text-6xl font-bold m-10 text-white font-serif ">BasicSciences</h1>
-    <a  class="text-xl font-bold my-20 ml-64 text-white font-serif object-right hover:text-blue-300" href="">Iniciar Sesion</a>
+    <h1 class="text-6xl font-bold m-10 text-white font-serif ">BasicSciencesjvgarcia</h1>
+    <a  class="text-xl font-bold my-20 ml-64 text-white font-serif object-right hover:text-blue-300" href="">Iniciar Sesion jv</a>
 
  </div>
 
+
  <div class="container h-full bg-blue-100 mt-4 mb-4 ml-10 rounded-xl shadow-2xl">
-     <h1 class="text-3xl font-bold text-center pt-4  mb-4">Bienvenidos a nuestra comunidad Unisangilista</h1>
+     <h1 class="text-3xl font-bold text-center pt-4  mb-4">Bienvenidos a nuestra comunidad Unisangilista Queridos Compañeros de unisangil</h1>
     <img class="m-auto my-6" src="img/unisan.jpg" alt="">
+
     <div class="text-justify mx-40" ><p >Hace dos décadas se creó en Colombia una institución de educación superior cuyas características la han hecho particularmente diferente: Unisangil. Su origen fue la Economía Solidaria. Nació en San Gil, Santander, en 1988, motivada
-        por el interés que tuvo un grupo de organizaciones sociales y cooperativas que vieron en la profesionalización, la ciencia, el conocimiento y la técnica un campo estratégico para el modelo de desarrollo regional.</p>
+        por el interés que tuvo un grupo de organizaciones sociales y cooperativas qugit e vieron en la profesionalización, la ciencia, el conocimiento y la técnica un campo estratégico para el modelo de desarrollo regional.</p>
     <p>Dando cumplimiento a su vocación de origen, Unisangil ha tenido un papel de primer orden en la promoción de microempresarios, como también en la consolidación de un capital humano de primer nivel para buscar respuestas a necesidades
         y problemáticas de sus zonas de influencia, en un mapa que trasciende las fronteras físicas del departamento de Santander y se integra con Casanare y Boyacá. En 1992 inició labores académicas la sede San Gil; en 1996, la sede Yopal,
         y en 2000, la sede Chiquinquirá.
