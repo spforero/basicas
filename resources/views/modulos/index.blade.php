@@ -17,25 +17,23 @@
         margin: 1rem;
         margin-left: 50%;
     }
-    .cont{
-        background-color: #100F4C;
-        width: 100%;
-    }
+  
     .container h1, p{
         color: #100F4C;
     }
 
     .img{
         background-image: url("{{asset('img/unisan.jpg')}}");
-        margin: 1rem;
-        margin-left: 3rem;
+        width: 1000px;
+        height:500px;
     }
 </style>
 
 
-<div class="container h-full bg-blue-100 mt-4 mb-4 ml-10 rounded-xl shadow-2xl">
+
+    
     <h1 class="text-3xl font-bold text-center pt-4  mb-4">Bienvenidos a nuestra comunidad Unisangilista</h1>
-   <img class="m-auto my-6" src="img/unisan.jpg" alt="">
+  <div class="img bg-cover m-auto my-6"></div>
    <div class="text-justify mx-40" ><p >Hace dos décadas se creó en Colombia una institución de educación superior cuyas características la han hecho particularmente diferente: Unisangil. Su origen fue la Economía Solidaria. Nació en San Gil, Santander, en 1988, motivada
        por el interés que tuvo un grupo de organizaciones sociales y cooperativas que vieron en la profesionalización, la ciencia, el conocimiento y la técnica un campo estratégico para el modelo de desarrollo regional.</p>
    <p>Dando cumplimiento a su vocación de origen, Unisangil ha tenido un papel de primer orden en la promoción de microempresarios, como también en la consolidación de un capital humano de primer nivel para buscar respuestas a necesidades
@@ -46,7 +44,7 @@
        de la UNAB en la zona de influencia de Unisangil.
    </p>
    <br>
-</div>
+
 </div>
 @endsection
     
