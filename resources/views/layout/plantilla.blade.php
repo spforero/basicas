@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Qyield('title')</title>
+    <title>@yield('title')</title>
     <!--favicon-->
     <!--estilos-->
     <style>
@@ -41,13 +41,11 @@
     
     <!--nav-->
     
-<div>
-    <br>
-    <br>
-    <br>
-</div>
+
 
     @yield('content')
+
+    
     <!--footer-->
     <footer class=" cont p-4">
         <p class="text-center text-white font-serif font-bold">FUNDACIÓN UNIVERSITARIA DE SAN GIL - UNISANGIL SEDE CHIQUINQUIRÁ</p>
