@@ -7,8 +7,7 @@ use Illuminate\Http\Request;
 class HomeController extends Controller
 {
     //metodos para mostrar las vistas
-    public function __invoke()
-    {
-        return view('index');
+    public function __invoke(){
+        return view('modulos/index');
     }
 }

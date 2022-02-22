@@ -5,10 +5,6 @@ use App\Http\Controllers\HomeController;
 use App\Http\Controllers\AdministradorController;
 use App\Http\Controllers\DocenteController;
 use App\Http\Controllers\EstudianteController;
-<<<<<<< HEAD
-=======
-
->>>>>>> 43806af5c9214446aca56bbb8baa6375b6bc7ee2
 
 /*
 |--------------------------------------------------------------------------
@@ -21,11 +17,4 @@ use App\Http\Controllers\EstudianteController;
 |
 */
 
-Route::get('/', HomeController::class);
-<<<<<<< HEAD
-
-Route::get('administrador', );
-=======
-    
-
->>>>>>> 43806af5c9214446aca56bbb8baa6375b6bc7ee2
+Route::get('/', HomeController::class, );
