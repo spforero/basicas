@@ -4,7 +4,8 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Qyield('title')</title>
+    <link rel="stylesheet" href="{{asset('css/app.css')}}">
+    <title>@yield('title')</title>
     <!--favicon-->
     <!--estilos-->
     <style>
@@ -33,21 +34,23 @@
 </head>
 <body>
     <!--header-->
-    <div class="cont bg-blue-900  flex ">
+    <div class="cont flex ">
         <div class="imagen bg-contain"></div>
-       <h1 class="text-6xl font-bold m-10 text-white font-serif">BasicSciences</h1>
+       <h1 class="text-6xl font-bold m-10 text-white font-serif ">BasicSciences</h1>
+       <a  class="text-xl font-bold my-20 ml-64 text-white font-serif object-right hover:text-blue-300" href="">Iniciar Sesion</a>
     
     </div>
     
+
+    
     <!--nav-->
     
-<div>
-    <br>
-    <br>
-    <br>
-</div>
+    <div class="container h-full bg-blue-100 mt-4 mb-4 pb-5 ml-10 rounded-xl shadow-2xl">
 
     @yield('content')
+
+  
+    </div>
     <!--footer-->
     <footer class=" cont p-4">
         <p class="text-center text-white font-serif font-bold">FUNDACIÓN UNIVERSITARIA DE SAN GIL - UNISANGIL SEDE CHIQUINQUIRÁ</p>
