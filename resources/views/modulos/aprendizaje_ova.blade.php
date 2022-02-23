@@ -5,6 +5,9 @@
     .container h1, p, a{
         color: #100F4C;
     }
+    .container {
+        color: #100F4C;
+    }
     .img{
         background-image: url("{{asset('img/administrador.png')}}");
         width: 300px;
@@ -37,11 +40,11 @@
     <p class="text-center text-white font-serif- font-bold text-2xl">Aprendizaje Ova</p>
 </div>
 
-    
-    <h1 class="text-3xl font-bold text-center pt-4  my-4">Área del Administrador</h1>
-    <div class="img bg-contain"></div>
-    <div class="text-justify m-40 font-serif text-lg my-10" ><p>Bienvenido al área del administrador, aquí podrás revisar el proceso que llevan los docentesy estudiantes, así mismo llevar el registro de docentes y estudiantes de la institución</p>
-    </div>
+    <div class="cont w-12 h-screen">
+        <p>hola</p>
 
+    </div>
+    
+    
 @endsection
     

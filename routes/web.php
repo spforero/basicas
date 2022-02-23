@@ -17,6 +17,6 @@ use App\Http\Controllers\EstudianteController;
 |
 */
 
-Route::get('modulos/index', [HomeController::class, 'index']);
+Route::get('/', [HomeController::class, 'index']);
 Route::get('modulos/administrador', [AdministradorController::class, 'administrador']);
 Route::get('modulos/aprendizaje_ova', [AdministradorController::class, 'aprendizaje_ova']);
