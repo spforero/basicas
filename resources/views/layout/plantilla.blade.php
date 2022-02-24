@@ -45,7 +45,7 @@
     
     <!--nav-->
     
-    <div class="container h-full bg-blue-100 mt-4 mb-4 pb-5 ml-10 rounded-xl shadow-2xl">
+    <div class="container h-full bg-blue-100 mt-4 mb-4 pb-5 ml-10 rounded-lg shadow-2xl">
 
     @yield('content')
 
