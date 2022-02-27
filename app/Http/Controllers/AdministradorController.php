@@ -14,7 +14,7 @@ class AdministradorController extends Controller
         return view('modulos/ciencias_basicas');
     }
     public function reporte(){
-        return view('modulos/ciencias_basicas');
+        return view('modulos/reporte');
     }
     public function saber_pro(){
         return view('modulos/ciencias_basicas');
@@ -23,6 +23,6 @@ class AdministradorController extends Controller
         return view('modulos/aprendizaje_ova');
     }
     public function resultados(){
-        return view('modulos/ciencias_basicas');
+        return view('modulos/resultados_admin');
     }
 }
